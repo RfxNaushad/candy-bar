@@ -1,0 +1,21 @@
+.products-container{
+    display: flex;
+    border-bottom: 2px solid cadetblue;
+}
+
+.choco-img {
+    height: 200px;
+    width: 200px;
+}
+
+.name {
+    color: rgb(18, 36, 53);
+}
+
+.btn-choco {
+    padding: 5px 15px ;
+    background-color: cadetblue;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}

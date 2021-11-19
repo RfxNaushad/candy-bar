@@ -1,0 +1,37 @@
+[
+  { 
+    "name": "Cadbury",
+    "img": "https://m.media-amazon.com/images/I/61eluXgdNdL._SX522_.jpg",
+    "price": 9
+  },
+  {
+    "name": "Ferre Rocher",
+    "img": "https://bestmediainfo.com/wp-content/uploads/2015/10/Ferrero-Rocher.jpg",
+    "price": 11
+  },
+  {
+    "name": "Snickers",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYULJwSxq26zHx6PsTS--FQ_HBtosaccIq_0bgHcqU180gWdY1rsby2KdHz7jdcMR2KSI&usqp=CAU",
+    "price": 15
+  },
+  {
+    "name": "Nestle",
+    "img": "https://chaldn.com/_mpimage/nestle-classic-chocolate-34-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70100&q=low&v=1",
+    "price": 18
+  },
+  {
+    "name": "Pacari",
+    "img": "https://ankorstore.imgix.net/products/images/274779-47cd2e502f27a5.jpg?auto=format%2Ccompress&fm=pjpg&dpr=2.625&h=575&w=575&fit=fill&fill=solid",
+    "price": 12
+  },
+  {
+    "name": "Campco",
+    "img": "https://5.imimg.com/data5/TG/IV/TT/SELLER-40674056/campco-dark-compound-500x500.jpg",
+    "price": 14
+  },
+  {
+    "name": "Hershey",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmXbH9-6cABKnN6Nt07eEB_zpjCoRWlaWry3UjViaVuTQYRVhTY2_CnPLSNWq15dYdIX4&usqp=CAU",
+    "price": 20
+  }
+]
